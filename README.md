@@ -1,8 +1,7 @@
 ## A Bootstrap Website
 
 
-
-
+![Sepehr Nekooian -Bootstrap](https://github.com/user-attachments/assets/df3d276b-37d6-4c73-ba24-e4f213e12189)
 
 
 ## 💻 Project-17-18
@@ -13,7 +12,7 @@
 
 ## 💻Technologies Used: HTML/CSS 
 
-## 🔗 ![Live Demo](https://sepehrnekooian.github.io/Photography-myself/)
+## 🔗 
 
 ## 📬 How to Reach Me:
 
